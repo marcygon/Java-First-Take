@@ -21,6 +21,7 @@ public class CocheMain {
         System.out.println(cocheElectrico);
         */
         CocheElectrico cocheElectrico2 = new CocheElectrico("Verde", "Renault", "Megane", 1450.95, 5.50, "Ejemplo de motor");
+        cocheElectrico2.acelerar(20);
         System.out.println(cocheElectrico2);
     }
 }
