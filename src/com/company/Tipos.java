@@ -32,5 +32,8 @@ public class Tipos {
         //tipos envoltorio
         Integer numero = null;
         Long numero2 = 2L;
+
+        //lista de palabras reservadas que no podemos utilizar como identificadores
+        /* https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html */
     }
 }

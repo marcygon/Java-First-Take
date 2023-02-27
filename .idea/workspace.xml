@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7619d3cc-c12f-4da0-b986-268750007531" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/ByeWolrd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Operadores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Tipos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/BucleFor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/BucleWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Funciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/IfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prueba/PruebaFunciones.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Tipos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Tipos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +44,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ByeWolrd">
-    <configuration name="ByeWolrd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ByeWolrd" />
+  <component name="RunManager" selected="Application.Switch">
+    <configuration name="BucleFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.BucleFor" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
@@ -58,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.HelloWorld" />
+    <configuration name="BucleWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.BucleWhile" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
@@ -71,18 +75,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="IfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.IfElse" />
       <module name="helloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaFunciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prueba.PruebaFunciones" />
+      <module name="helloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.prueba.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Switch" />
+      <module name="helloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ByeWolrd" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Switch" />
+        <item itemvalue="Application.BucleWhile" />
+        <item itemvalue="Application.BucleFor" />
+        <item itemvalue="Application.IfElse" />
+        <item itemvalue="Application.PruebaFunciones" />
       </list>
     </recent_temporary>
   </component>
