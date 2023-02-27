@@ -10,6 +10,9 @@ public class Coche {
     Integer velocidad = 0;
 
     //constructores
+    public Coche(){
+
+    }
     public Coche(String color, String fabricante, String modelo, double peso, double largo){
         this.color = color;
         this.fabricante = fabricante;
