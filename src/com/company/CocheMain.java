@@ -11,5 +11,13 @@ public class CocheMain {
         System.out.println(cocheObj2);
         cocheObj2.peso = 1350.80;
         System.out.println(cocheObj2);
+
+        CocheElectrico cocheElectrico = new CocheElectrico();
+        cocheElectrico.motorElectrico = "Ejemplo de motor";
+        cocheElectrico.color = "Azul pastel";
+        cocheElectrico.fabricante = "Fiat";
+        cocheElectrico.modelo = "Barbie";
+
+        System.out.println(cocheElectrico);
     }
 }

@@ -27,4 +27,16 @@ public class Coche {
             this.velocidad += cantidad;
         }
     }
+
+    @Override
+    public String toString() {
+        return "Coche{" +
+                "color='" + color + '\'' +
+                ", fabricante='" + fabricante + '\'' +
+                ", modelo='" + modelo + '\'' +
+                ", peso=" + peso +
+                ", largo=" + largo +
+                ", velocidad=" + velocidad +
+                '}';
+    }
 }
