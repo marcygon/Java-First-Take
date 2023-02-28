@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7619d3cc-c12f-4da0-b986-268750007531" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/definiciones/tryAndCatch/throwYThrows/NameFormatException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/definiciones/tryAndCatch/throwYThrows/ThrowThrowsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/definiciones/scanner/ScannerMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,7 @@
     "settings.editor.selected.configurable": "configurable.group.editor"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.TryCatchMain">
+  <component name="RunManager" selected="Application.ScannerMain">
     <configuration name="ArrayMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.definiciones.arrays.ArrayMain" />
       <module name="helloWorld" />
@@ -84,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.definiciones.metodosClaseString.StringMain" />
+    <configuration name="ScannerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.definiciones.scanner.ScannerMain" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.definiciones.metodosClaseString.*" />
+          <option name="PATTERN" value="com.company.definiciones.scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScannerMain" />
         <item itemvalue="Application.TryCatchMain" />
         <item itemvalue="Application.MapMain" />
         <item itemvalue="Application.ListMain" />
         <item itemvalue="Application.ArrayMain" />
-        <item itemvalue="Application.StringMain" />
       </list>
     </recent_temporary>
   </component>
