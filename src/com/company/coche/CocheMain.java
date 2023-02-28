@@ -1,4 +1,4 @@
-package com.company;
+package com.company.coche;
 
 public class CocheMain {
     public static void main(String[] args) {

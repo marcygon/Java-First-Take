@@ -1,4 +1,4 @@
-package com.company;
+package com.company.coche;
 
 public class Coche {
     //atributos

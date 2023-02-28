@@ -1,4 +1,4 @@
-package com.company;
+package com.company.definiciones;
 
 public class ByeWolrd {
     public static void main(String[] args) {

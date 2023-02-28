@@ -1,4 +1,4 @@
-package com.company;
+package com.company.bucles;
 
 public class BucleFor {
     public static void main(String[] args) {
