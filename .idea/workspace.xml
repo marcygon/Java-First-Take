@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7619d3cc-c12f-4da0-b986-268750007531" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/definiciones/metodosClaseString/StringMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/arrays/ArrayMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/refactoring/inlineClass/bad/Direction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/refactoring/inlineClass/bad/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/refactoring/inlineClass/good/Person.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +43,13 @@
     "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringMain">
-    <configuration name="BucleWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.bucles.BucleWhile" />
+  <component name="RunManager" selected="Application.ArrayMain">
+    <configuration name="ArrayMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.arrays.ArrayMain" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.bucles.*" />
+          <option name="PATTERN" value="com.company.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayMain" />
         <item itemvalue="Application.StringMain" />
         <item itemvalue="Application.InterfacesMain" />
         <item itemvalue="Application.CocheMain" />
         <item itemvalue="Application.Switch" />
-        <item itemvalue="Application.BucleWhile" />
       </list>
     </recent_temporary>
   </component>
