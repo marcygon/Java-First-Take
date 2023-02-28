@@ -1,7 +1,7 @@
 package com.company.coche;
 
 public class PolimorfismoMain {
-    Coche coche1 = new Coche();
+    //Coche coche1 = new Coche();
     //CocheElectrico coche2 = new CocheElectrico();
 
 
