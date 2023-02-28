@@ -5,34 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7619d3cc-c12f-4da0-b986-268750007531" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/definiciones/tryAndCatch/TryCatchMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/definiciones/tryAndCatch/throwYThrows/NameFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/definiciones/tryAndCatch/throwYThrows/ThrowThrowsMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/MapMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/mapas/MapMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/arrays/ArrayMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/arrays/ArrayMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/bucles/BucleFor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/bucles/BucleFor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/bucles/BucleWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/bucles/BucleWhile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/definiciones/ByeWolrd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/primerContacto/ByeWolrd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/definiciones/Funciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/funciones/Funciones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/definiciones/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/primerContacto/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/definiciones/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/ifElse/IfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/definiciones/Operadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/operadores/Operadores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/definiciones/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/switchDef/Switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/definiciones/Tipos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/tiposDeDato/Tipos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/listasDinamicas/ListMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/listasDinamicas/ListMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/refactoring/concolidatedConditional/Bad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/refactoring/concolidatedConditional/Bad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/refactoring/concolidatedConditional/Good.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/refactoring/concolidatedConditional/Good.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/refactoring/consolidatedDuplicate/Bad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/refactoring/consolidatedDuplicate/Bad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/refactoring/consolidatedDuplicate/Good.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/refactoring/consolidatedDuplicate/Good.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/refactoring/extractClass/bad/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/refactoring/extractClass/bad/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/refactoring/extractClass/good/Adress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/refactoring/extractClass/good/Adress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/refactoring/extractClass/good/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/refactoring/extractClass/good/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/refactoring/extractMethod/Bad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/refactoring/extractMethod/Bad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/refactoring/extractMethod/Good.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/refactoring/extractMethod/Good.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/refactoring/extractVariable/bad/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/refactoring/extractVariable/bad/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/refactoring/extractVariable/bad/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/refactoring/extractVariable/bad/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/refactoring/extractVariable/good/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/refactoring/extractVariable/good/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/refactoring/extractVariable/good/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/definiciones/refactoring/extractVariable/good/Order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/prueba/PruebaFunciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prueba/PruebaFunciones.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
