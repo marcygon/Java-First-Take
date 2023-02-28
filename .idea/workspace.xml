@@ -5,12 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7619d3cc-c12f-4da0-b986-268750007531" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/coche/interfaces/CocheService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/coche/interfaces/CocheServiceClassicImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/coche/interfaces/CocheServiceSportImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/coche/interfaces/InterfacesMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/refactoring/concolidatedConditional/Bad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/refactoring/concolidatedConditional/Good.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/refactoring/consolidatedDuplicate/Bad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/refactoring/consolidatedDuplicate/Good.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/refactoring/extractClass/bad/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/refactoring/extractClass/good/Adress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/refactoring/extractClass/good/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/refactoring/extractMethod/Bad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/refactoring/extractMethod/Good.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/refactoring/extractVariable/bad/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/refactoring/extractVariable/bad/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/refactoring/extractVariable/good/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/refactoring/extractVariable/good/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/refactoring/inlineClass/bad/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/refactoring/inlineClass/bad/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/refactoring/inlineClass/good/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/coche/PolimorfismoMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/coche/PolimorfismoMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
