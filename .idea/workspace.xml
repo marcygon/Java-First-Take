@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7619d3cc-c12f-4da0-b986-268750007531" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leccion2/Introduccion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/leccion2/Hola.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,21 +35,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.editor&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.ScannerMain">
     <configuration name="ArrayMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.definiciones.arrays.ArrayMain" />
+      <option name="MAIN_CLASS_NAME" value="com.company.conceptos.definiciones.arrays.ArrayMain" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.definiciones.arrays.*" />
+          <option name="PATTERN" value="com.company.conceptos.definiciones.arrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,11 +71,11 @@
       </method>
     </configuration>
     <configuration name="MapMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.definiciones.mapas.MapMain" />
+      <option name="MAIN_CLASS_NAME" value="com.company.conceptos.definiciones.mapas.MapMain" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.definiciones.mapas.*" />
+          <option name="PATTERN" value="com.company.conceptos.definiciones.mapas.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,11 +84,11 @@
       </method>
     </configuration>
     <configuration name="ScannerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.definiciones.scanner.ScannerMain" />
+      <option name="MAIN_CLASS_NAME" value="com.company.conceptos.definiciones.scanner.ScannerMain" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.definiciones.scanner.*" />
+          <option name="PATTERN" value="com.company.conceptos.definiciones.scanner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,11 +97,11 @@
       </method>
     </configuration>
     <configuration name="TryCatchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.definiciones.tryAndCatch.TryCatchMain" />
+      <option name="MAIN_CLASS_NAME" value="com.company.conceptos.definiciones.tryAndCatch.TryCatchMain" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.definiciones.tryAndCatch.*" />
+          <option name="PATTERN" value="com.company.conceptos.definiciones.tryAndCatch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
