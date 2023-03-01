@@ -1,4 +1,4 @@
-package com.company.leccion3.funciones;
+package com.company.leccion3.funciones.sinParametros;
 
 import java.util.Scanner;
 

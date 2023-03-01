@@ -6,11 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="7619d3cc-c12f-4da0-b986-268750007531" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/com/company/leccion3/Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/leccion3/funciones/FuncionSinParametros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leccion3/funciones/anonimas/funcionesAnonimas.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/leccion3/funciones/conParametros/Opcion1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/leccion3/funciones/conParametros/Opcion2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/leccion2/Introduccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/leccion2/Introduccion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/leccion3/funciones/FuncionSinParametros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/leccion3/funciones/sinParametros/FuncionSinParametros.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +64,7 @@
       </method>
     </configuration>
     <configuration name="FuncionSinParametros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.leccion3.funciones.FuncionSinParametros" />
+      <option name="MAIN_CLASS_NAME" value="com.company.leccion3.funciones.sinParametros.FuncionSinParametros" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
