@@ -1,9 +1,0 @@
-package com.prueba;
-
-import com.company.definiciones.funciones.Funciones;
-
-public class PruebaFunciones {
-    public static void main(String[] args) {
-        Funciones.holaMundo("Sofia");
-    }
-}
