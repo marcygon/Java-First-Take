@@ -11,6 +11,8 @@
       <change afterPath="$PROJECT_DIR$/src/com/company/leccion3/funciones/conParametros/Opcion2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/leccion3/funciones/sobrecarga/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/company/leccion4/estructurasDeControl/condicionales/IfElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leccion4/estructurasDeControl/condicionales/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/leccion4/estructurasDeControl/repeticion/For.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/leccion2/Introduccion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/leccion2/Introduccion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/leccion3/funciones/FuncionSinParametros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/leccion3/funciones/sinParametros/FuncionSinParametros.java" afterDir="false" />
@@ -51,26 +53,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.IfElseIf">
-    <configuration name="DeclararFunciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.leccion3.DeclararFunciones" />
+  <component name="RunManager" selected="Application.For">
+    <configuration name="For" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.leccion4.estructurasDeControl.repeticion.For" />
       <module name="helloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.leccion3.funciones.conParametros.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FuncionSinParametros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.leccion3.funciones.sinParametros.FuncionSinParametros" />
-      <module name="helloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.leccion3.funciones.conParametros.*" />
+          <option name="PATTERN" value="com.company.leccion4.estructurasDeControl.repeticion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,13 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.leccion4.estructurasDeControl.condicionales.Switch" />
+      <module name="helloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.leccion4.estructurasDeControl.condicionales.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.For" />
+        <item itemvalue="Application.Switch" />
         <item itemvalue="Application.IfElseIf" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Opcion1" />
-        <item itemvalue="Application.FuncionSinParametros" />
-        <item itemvalue="Application.DeclararFunciones" />
       </list>
     </recent_temporary>
   </component>
