@@ -1,5 +1,7 @@
 package com.company.lecciones.leccion5.clases;
 
+import com.company.lecciones.leccion5.herencia.BodyMilk;
+import com.company.lecciones.leccion5.herencia.HandCream;
 import com.company.lecciones.leccion5.herencia.Perfume;
 
 public class Main {
@@ -24,6 +26,14 @@ public class Main {
         System.out.println("FIN DE PROGRAMA");
 
         //polimorfismo
+        Colonia colonia;
+        colonia = new BodyMilk();
+        colonia.perfumar(7);
+
+        colonia = new HandCream();
+        colonia.perfumar(3);
+
+        
 
     }
 }

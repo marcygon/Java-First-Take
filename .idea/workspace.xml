@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7619d3cc-c12f-4da0-b986-268750007531" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/lecciones/leccion5/herencia/BodyMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lecciones/leccion5/herencia/HandCream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lecciones/leccion5/herencia/Perfume.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lecciones/leccion5/Colonia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lecciones/leccion5/clases/Colonia.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lecciones/leccion5/Frasco.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lecciones/leccion5/clases/Frasco.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lecciones/leccion5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lecciones/leccion5/clases/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/lecciones/leccion5/clases/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/lecciones/leccion5/clases/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
