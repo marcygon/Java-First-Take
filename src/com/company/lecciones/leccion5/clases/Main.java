@@ -1,4 +1,6 @@
-package com.company.lecciones.leccion5;
+package com.company.lecciones.leccion5.clases;
+
+import com.company.lecciones.leccion5.herencia.Perfume;
 
 public class Main {
     public static void main(String[] args) {
@@ -15,5 +17,13 @@ public class Main {
         System.out.println(channelNum5.dose);//dose = 0;
         channelNum5.perfumar(2);
         System.out.println(channelNum5.dose);//al ejecutar el metodo perfumar dose = 2;
+
+        //herencia
+        Perfume amorAmor = new Perfume("Amor amor",true,10,7,true,false);
+
+        System.out.println("FIN DE PROGRAMA");
+
+        //polimorfismo
+
     }
 }

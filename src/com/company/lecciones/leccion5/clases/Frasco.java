@@ -1,4 +1,4 @@
-package com.company.lecciones.leccion5;
+package com.company.lecciones.leccion5.clases;
 public class Frasco {
     //atributos
     String material;
