@@ -9,7 +9,9 @@ public class Main {
         Colonia alienMuggler = new Colonia();
 
         //crear un onjeto con el constructor de parametros
-        Colonia channelNum5 = new Colonia("Channel num.5","small",2017,true);
+        Frasco frascoCristal = new Frasco("cristal", true, 150,"dorado");
+
+        Colonia channelNum5 = new Colonia("Channel num.5","small",2017,true, 0, frascoCristal);
         System.out.println(channelNum5.dose);//dose = 0;
         channelNum5.perfumar(2);
         System.out.println(channelNum5.dose);//al ejecutar el metodo perfumar dose = 2;
