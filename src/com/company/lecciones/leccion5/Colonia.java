@@ -15,7 +15,9 @@ public class Colonia {
         this.size = size;
         this.year = year;
         this.available = available;
+        this.dose = 0;
     }
+
     public Colonia(String name, boolean available){
         this.name = name;
         this.available = available;
