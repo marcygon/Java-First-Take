@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7619d3cc-c12f-4da0-b986-268750007531" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company/lecciones/leccion7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lecciones/leccion7/consolidateConditional/bad/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lecciones/leccion7/consolidateConditional/good/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lecciones/leccion7/consolidateConditional/good/Manual.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +46,11 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company.lecciones.leccion7.consolidateConditional.good" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.com.company.ejercicios.ejercicio5.Main">
     <configuration name="Ejercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.ejercicios.ejercicio3.Ejercicio3" />
